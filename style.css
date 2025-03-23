@@ -1,0 +1,54 @@
+h1 {
+    text-align: center;
+    color: blue;
+}
+
+h2 {
+    background-color: aqua;
+    text-align: center;
+}
+
+.yellow-span {
+    background-color: yellow;
+    color: black;
+}
+
+.black-span {
+    background-color: black;
+    color: white;
+}
+
+.red-h2 {
+    background-color: red;
+    color: white;
+}
+
+.yellow-span-2 {
+    border-radius: 10px;
+}
+
+.html {
+    background-color: black;
+    color: white;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.xtml {
+     background-color: red;
+     color: white;
+     border-radius: 5px;
+     font-size: 25px;
+}
+
+.css {
+    background-color: green;
+    color: white;
+    border-radius: 5px;
+    font-size: 25px;
+}
+
+.div-wrapper {
+    text-align: center;
+}
+
